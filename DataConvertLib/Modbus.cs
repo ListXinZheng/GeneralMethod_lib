@@ -2,7 +2,8 @@
 
 namespace DataConvertLib
 {
-    public class Class1
+    public class Modbus
     {
+
     }
 }
