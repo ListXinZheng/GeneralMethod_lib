@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConvertLib", "DataConvertLib\DataConvertLib.csproj", "{A9032406-CA2F-40DF-831D-186C7E60F20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9032406-CA2F-40DF-831D-186C7E60F20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9032406-CA2F-40DF-831D-186C7E60F20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9032406-CA2F-40DF-831D-186C7E60F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9032406-CA2F-40DF-831D-186C7E60F20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C578C9FE-818B-4DD5-A5AD-38F7FAF7F9EA}
+	EndGlobalSection
+EndGlobal
